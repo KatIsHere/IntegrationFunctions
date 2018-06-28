@@ -2,6 +2,7 @@
 Some code for integrating functions, written in python
 ------------------------------------------------------------------------
 Given we have a task of finding: I = integral(f(x)dx), x from a to b
+
 SimpsonIntegration.py encorporates Simpson method for counting integrals
 
 ------------------------------------------------------------------------
